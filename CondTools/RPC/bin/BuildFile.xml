@@ -1,0 +1,9 @@
+<use   name="rootrflx"/>
+<use   name="roofit"/>
+<use   name="boost"/>
+<bin   name="RPCGetPVSSPerRun" file="RPCGetPVSSPerRun.cpp">
+<use   name="FWCore/Framework"/>
+<use   name="FWCore/Utilities"/>
+<use   name="RelationalAccess"/>
+<use   name="CondFormats/RPCObjects"/>
+</bin>

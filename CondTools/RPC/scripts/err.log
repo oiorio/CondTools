@@ -1,0 +1,46 @@
+Reading cached build data
+>> Local Products Rules ..... started
+>> Local Products Rules ..... done
+****WARNING: Invalid tool Utilities/Timing. Please fix src/ttbarDM/TopPlusDMAna/BuildFile.xml file.
+------- copying files from src/CondTools/RPC/scripts -------
+>> copied check_runs_ran.py
+>> copied err.log
+>> copied launchlocal_pvss.py
+>> copied launchlocal_pvss.py~
+>> copied runDataToDB_PVSSPERRUN_ORACLE_OMDS.py
+>> copied runDataToDB_PVSSPERRUN_ORACLE_OMDS.pyc
+>> copied runDataToDB_PVSSPERRUN_ORACLE_OMDS.py~
+>> copied runDataToDB_VMONPERRUN_ORACLE_OMDS.py
+>> copied runDataToDB_VMONPERRUN_ORACLE_OMDS.py~
+>> copied runDataToDB_loop_ORACLE_OMDS_SingleFile_PVSS.py
+>> copied runDataToDB_loop_ORACLE_OMDS_SingleFile_PVSS.py~
+>> copied runDataToDB_loop_ORACLE_OMDS_SingleFile_PVSSTEMP.py
+>> copied runDataToDB_loop_ORACLE_OMDS_SingleFile_PVSSTEMP.py~
+>> copied runDataToDB_loop_ORACLE_OMDS_SingleFile_PVSS_IV.py
+>> copied runDataToDB_loop_ORACLE_OMDS_SingleFile_PVSS_IV.py~
+>> copied runs_database_dqm.py
+>> copied runs_db_ran_total.py
+>> copied runs_db_ran_total.pyc
+>> copied runs_db_ran_total.py~
+>> copied runs_dqm_ran.py
+>> copied runs_dqm_ran.pyc
+>> copied runs_dqm_to_run_total.py
+>> copied runs_pvss_ran.py
+>> copied runs_pvss_ran.pyc
+>> copied runs_pvss_to_run.py
+>> copied runs_pvss_to_run.pyc
+>> copied runs_pvss_to_run.py~
+>> copied runsingletop.csh
+>> copied runsingletop.csh~
+>> copied runsingletop_GenLevel.csh
+>> copied runsingletop_GenLevel.csh~
+>> Local Products Rules ..... started
+>> Local Products Rules ..... done
+****WARNING: Invalid tool Utilities/Timing. Please fix src/ttbarDM/TopPlusDMAna/BuildFile.xml file.
+gmake[1]: Entering directory `/afs/cern.ch/work/o/oiorio/CMSSW_7_2_0_pre5'
+>> Creating project symlinks
+>> Pluging of all type refreshed.
+>> Done python_symlink
+>> Compiling python modules python
+>> All python modules compiled
+gmake[1]: Leaving directory `/afs/cern.ch/work/o/oiorio/CMSSW_7_2_0_pre5'
